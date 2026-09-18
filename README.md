@@ -23,5 +23,5 @@ simple async bot for quiz in Telegram
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/Banan41k78/TG_bot-for-quiz
 cd quiz_bot
